@@ -1,0 +1,14 @@
+---
+title: Negroni
+source:
+  url: http://en.wikipedia.org/wiki/Negroni
+  type: web
+---
+
+* {{ a 1oz }} {{ i #gin }}
+* {{ a 1oz }} {{ i #sweet-vermouth }}
+* {{ a 1oz }} {{ i #campari }}
+* {{ a 1unit }} {{ i #orange-peel }}, for ganish
+
+Combine ingredients with ice in a mixing glass. Stir well.
+Strain into a rocks glass with ice. Garnish with an orange peel.
