@@ -1,0 +1,15 @@
+---
+title: Oxaca Old-Fashioned
+source:
+  type: experience
+note: missing the bit about the flaming orange peel
+---
+
+* {{ a 1+1/2oz }} {{ i #reposado-tequila }}
+* {{ a 1/2oz }} {{ i #mezcal }}
+* {{ a 1tsp }} {{ i #agave-nectar }}
+* {{ a 1dash }} {{ i #bittermens-xocolatl-mole }}
+* {{ a 1unit }} {{ i #orange-peel 'organge peel with pith' }}
+
+Combine ingredients with ice in a mixing glass. Stir well.
+Strain into a rocks glass with ice.
