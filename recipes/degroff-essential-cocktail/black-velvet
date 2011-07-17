@@ -1,0 +1,13 @@
+---
+title: Black Velvet
+source:
+    type: book
+    isbn: 978-0-307-40573-9
+    page: 15
+---
+
+* {{ a 1unit }} {{ i #guinness }}
+* {{ a 1unit }} {{ i #champagne }}
+
+Slowly pour equal parts Champagne and Guinness into
+a Pilsner glass.
