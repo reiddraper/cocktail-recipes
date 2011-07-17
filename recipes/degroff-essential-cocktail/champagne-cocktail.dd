@@ -1,0 +1,14 @@
+---
+title: Champagne Cocktail
+source:
+    type: book
+    isbn: 978-0-307-40573-9
+    page: 22
+---
+
+* {{ a:sug 1unit }} {{ i:sug #sugar-cube }} soaked in {{ a:bit 1unit }} {{ i:bit #angostura-bitters }}
+* {{ a 1unit }} {{ i #champagne }}
+* {{ a 1splash }} {{ i #cognac }}, optional
+* {{ a unscaled }} {{ i #lemon-peel }}, for garnish
+
+Place the sugar cube in the bottom of a Champagne glass, fill with Champagne.

@@ -1,0 +1,18 @@
+---
+title: Jack Rose
+source:
+    type: book
+    isbn: 978-0-307-40573-9
+    page: 31
+---
+
+* {{ a 1+1/2oz }} {{ i #apple-jack }}
+* {{ a 3/4oz }} {{ i #simple-syrup }}
+* {{ a 3/4oz }} {{ i #lemon-juice 'fresh-squeezed lemon juice' }}
+* {{ a 1/4oz }} {{ i #grenadine }}
+* {{ a 1unit }} {{ i #apple-slice }}, for garnish
+* {{ a 1unit }} {{ i #marashino-cherry }}, for garnish
+
+Combine ingredients in a mixing glass with ice. Shake well.
+Strain into a cocktail glass and garnish with apple slice
+and cherry.
