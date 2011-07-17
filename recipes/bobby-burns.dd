@@ -1,9 +1,10 @@
+---
 title: Bobby Burns
 source:
   type: book
   isbn: 978-0-307-40573-9
   page: 18
-
+---
 
 * {{ a 2oz }} {{ i #scotch 'Highland malt scotch' }}
 * {{ a .75oz }} {{ i #sweet-vermouth 'Italian sweet vermouth' }}

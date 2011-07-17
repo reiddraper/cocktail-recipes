@@ -1,13 +1,16 @@
+---
 title: Flip
 source:
   type: book
   isbn: 978-0-307-40573-9
   page: 30
+---
 
-Shake
-  2 oz sherry
-  1.5 large egg, beaten
-  1 oz simple syrup
+* {{ a 2oz }} {{ i #sherry }}
+* {{ a 1/2 }} {{ i #egg 'large egg, beaten'}}
+* {{ a 1oz }} {{ i #simple-syrup }}
+* {{ a noscale }} {{ i #nutmeg 'nutmeg' }}
 
-Garnish
-  dust with freshly grated nutmeg
+Combine ingredients in a mixing glass. Shake well.
+Strain into a cocktail glass and server with
+freshly grated nutmeg.

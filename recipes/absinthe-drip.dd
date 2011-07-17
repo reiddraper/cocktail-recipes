@@ -1,9 +1,10 @@
+---
 title: Absinthe Drip
 source:
     type: book
     isbn: 978-0-307-40573-9
     page: 12
-
+---
 
 * {{ a 2oz }} {{ i #absinthe }}
 * {{ a 1unit }} {{ i #sugar 'lump of sugar' }}

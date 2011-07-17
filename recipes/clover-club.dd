@@ -1,9 +1,10 @@
+---
 title: Clover Club
 source:
   type: book
   isbn: 978-0-307-40573-9
   page: 27
-
+---
 
 * {{ a 1.5oz }} {{ i #gin }}
 * {{ a .75oz }} {{ i #simple-syrup }}

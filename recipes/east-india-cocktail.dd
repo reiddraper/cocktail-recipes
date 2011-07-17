@@ -1,8 +1,10 @@
+---
 title: East India Cocktail
 source:
   type: book
   isbn: 978-0-307-40573-9
   page: 28
+---
 
 * {{ a 2oz }} {{ i #cognac }}
 * {{ a 1tsp }} {{ i #raspberry-syrup }}
