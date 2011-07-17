@@ -1,0 +1,14 @@
+---
+title: White Lady
+source:
+  type: book
+  isbn: 978-0-307-40573-9
+  page: 100
+---
+
+* {{ a 1.5oz }} {{ i #gin }}
+* {{ a 1oz }} {{ i #cointreau }}
+* {{ a 3/4oz }} {{ i #lemon-juice 'fresh-squeezed lemon juice' }}
+
+Combine ingredients in a mixing glass with ice. Shake well.
+Strain and serve in a cocktail glass.
