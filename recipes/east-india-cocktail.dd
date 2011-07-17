@@ -1,0 +1,14 @@
+title: East India Cocktail
+source:
+  type: book
+  isbn: 978-0-307-40573-9
+  page: 28
+
+* {{ a 2oz }} {{ i #cognac }}
+* {{ a 1tsp }} {{ i #raspberry-syrup }}
+* {{ a 2dashes }} {{ i angostura-bitters }}
+* {{ a 2dashes }} {{ i #maraschino-liqeur 'Luxardo Maraschino Liqeur' }}
+* {{ a null }} {{ i #lemon-peel }}
+
+Combine ingredients in a mixing glass with ice. Stir well. Strain into
+a cocktail glass. Twist the lemon peel on the glass.

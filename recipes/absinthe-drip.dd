@@ -1,0 +1,15 @@
+title: Absinthe Drip
+source:
+    type: book
+    isbn: 978-0-307-40573-9
+    page: 12
+
+
+* {{ a 2oz }} {{ i #absinthe }}
+* {{ a 1unit }} {{ i #sugar 'lump of sugar' }}
+
+Put absinthe and one cube of ice in a glass.
+Place an absinthe on the top of the glass
+and put the sugar on the spoon. Pour drops of
+water over the sugar until it's all dissolved.
+Serve in a cocktail glass.

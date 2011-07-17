@@ -1,0 +1,13 @@
+title: Moonlight Cocktail
+source:
+  url: http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2007/09/28/WIVTS4MNB.DTL 
+  type: web
+
+
+* {{ a 1.5oz }} {{ i #gin }}
+* {{ a 1/2oz }} {{ i #cointreau }}
+* {{ a 1/2oz }} {{ i #creme-de-violette }}
+* {{ a 1/2oz }} {{ i #lime-juice 'fresh lime juice' }}
+
+Combine all ingredients in a cocktail shaker. Shake, and strain into a
+Champagne flute.

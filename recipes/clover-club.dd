@@ -1,0 +1,16 @@
+title: Clover Club
+source:
+  type: book
+  isbn: 978-0-307-40573-9
+  page: 27
+
+
+* {{ a 1.5oz }} {{ i #gin }}
+* {{ a .75oz }} {{ i #simple-syrup }}
+* {{ a .75oz }} {{ i #lemon-juice 'fresh-squeezed lemon juice' }}
+* {{ a .5tsp }} {{ i #grenadine }}
+* {{ a .5unit }} {{ i #egg-white 'white of one small egg' }}
+
+Combine all ingredients but egg in a shaker. In a bowl, lightly
+whip the egg white. Combine egg in shaker. Shake vigorously.
+Strain into a cocktail glass.
