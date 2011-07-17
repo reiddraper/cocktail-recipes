@@ -1,0 +1,14 @@
+---
+title: Aviation
+source:
+  url: http://en.wikipedia.org/wiki/Aviation_(cocktail)
+  type: web
+---
+
+* {{ a 2oz }} {{ i #gin }}
+* {{ a 1/2oz }} {{ i #lemon-juice }}
+* {{ a 1/2oz }} {{ i #marashino-liquor }}
+* {{ a 1/2oz }} {{ i #creme-de-violette }}
+
+Combine ingredients in a mixing glass. Shake well.
+Strain into a cocktail glass.
