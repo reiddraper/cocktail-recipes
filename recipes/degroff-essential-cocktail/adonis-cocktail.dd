@@ -1,0 +1,18 @@
+---
+title: Adonis Cocktail
+source:
+    type: book
+    isbn: 978-0-307-40573-9
+    page: 14
+---
+
+* {{ a 1oz }} {{ i #dry-vermouth 'Vya dry vermouth' }}
+* {{ a 1/2oz }} {{ i #dry-vermouth 'French dry vermouth' }}
+* {{ a 1/2oz }} {{ i #fino-sherry }}
+* {{ a 1oz }} {{ i #orange-juice 'fresh-squeezed orange juice' }}
+* {{ a 2dashes }} {{ i #gary-regans-organge-bitters-no6 }}
+* {{ a unscaled }} {{ i #organge-peel 'Flamed orange peel' }}, for ganish
+* {{ a unscaled }} {{ i #nutmeg }}, for grating
+
+Combine ingredients in a mixing glass with ice. Shake well.
+Garnish with orange peel and grate nutmeg on top of the drink.
