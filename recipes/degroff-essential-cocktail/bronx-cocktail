@@ -1,0 +1,17 @@
+---
+title: Bronx Cocktail
+source:
+    type: book
+    isbn: 978-0-307-40573-9
+    page: 20
+---
+
+* {{ a 1+1/2oz }} {{ i #gin }}
+* {{ a 1/2oz }} {{ i #sweet-vermouth }}
+* {{ a 1/2oz }} {{ i #dry-vermouth }}
+* {{ a 1oz }} {{ i #orange-juice 'fresh-squeezed orange juice' }}
+* {{ a 1dash }} {{ i #angostura-bitters }}
+* {{ a unscaled }} {{ i #orange-peel }}, for garnish
+
+Combine ingredients in a mixing glass with ice. Shake well.
+Strain into a cocktail glass and garnish with orange peel.
