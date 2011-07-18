@@ -1,0 +1,18 @@
+---
+title: Cosmopolitan
+source:
+    type: book
+    isbn: 978-0-307-40573-9
+    page: 72
+note:
+  calls for flamed orange peel
+---
+
+* {{ a 1+1/2oz }} {{ i #citrus-vodka }}
+* {{ a 3/4oz }} {{ i #cointreau }}
+* {{ a 1oz }} {{ i #cranberry-juice }}
+* {{ a 1/4oz }} {{ i #lime-juice 'fresh-squeezed lime juice' }}
+* {{ a unscaled }} {{ i #orange-peel }}, for garnish
+
+Combine ingredients in a mixing glass with ice. Shake well.
+Strain into a cocktail glass and garnish with orange peel.
