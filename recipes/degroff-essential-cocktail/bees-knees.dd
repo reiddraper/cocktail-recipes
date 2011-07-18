@@ -1,0 +1,17 @@
+---
+title: Bee's Knees
+source:
+    type: book
+    isbn: 978-0-307-40573-9
+    page: 62
+notes:
+  how do I denote the lemon peel is flamed?
+---
+
+* {{ a 2oz }} {{ i #gin }}
+* {{ a 3/4oz }} {{ i #honey-syrup }}
+* {{ a 1/2oz }} {{ i #lemon-juice 'fresh-squeezed lemon juice' }}
+* {{ a unscaled }} {{ i #lemon-peel 'flamed lemon peel' }}
+
+Combine ingredients in a mixing glass with ice. Shake well.
+Strain into a cocktail glass and garnish with lemon peel.
