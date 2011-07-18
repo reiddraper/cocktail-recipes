@@ -1,0 +1,16 @@
+---
+title: Pink Lady
+source:
+  type: book
+  isbn: 978-0-307-40573-9
+  page: 96
+---
+
+* {{ a 1.5oz }} {{ i #gin }}
+* {{ a 1/4oz }} {{ i #grenadine }}
+* {{ a 3/4oz }} {{ i #simple-syrup }}
+* {{ a 1oz }} {{ i #heavy-cream }}
+* {{ a unscaled }} {{ i #maraschino-cherry }}, for garnish
+
+Combine ingredients in a mixing glass with ice. Shake well.
+Strain and serve in a cocktail glass. Garnish with cherry.
