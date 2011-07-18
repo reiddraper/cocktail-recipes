@@ -1,0 +1,17 @@
+---
+title: Gimlet
+source:
+    type: book
+    isbn: 978-0-307-40573-9
+    page: 79
+note:
+  calls for gin or vodka
+  calls for cucumber or lime wedge
+---
+
+* {{ a 2oz }} {{ i #gin }}
+* {{ a 3/4ounce }} {{ i #roses-lime-juice }}
+* {{ a unscaled }} {{ i #cucumber-slice }}, for garnish
+
+Combine ingredients in a mixing glass with ice. Shake well.
+Strain into a cocktail glass and garnish with cucumber slice.
