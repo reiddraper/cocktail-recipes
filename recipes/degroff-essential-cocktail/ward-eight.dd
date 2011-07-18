@@ -1,0 +1,16 @@
+---
+title: Ward Eight
+source:
+    type: book
+    isbn: 978-0-307-40573-9
+    page: 54
+---
+
+* {{ a 2oz }} {{ i #rye-whiskey }}
+* {{ a 1oz }} {{ i #simple-syrup }}
+* {{ a 3/4oz }} {{ i #lemon-juice 'fresh-squeezed lemon juice' }}
+* {{ a 1/4oz }} {{ i #grenadine }}
+* {{ a unscaled }} {{ i #marashino-cherry }}, for garnish
+
+Combine ingredients in a mixing glass with ice. Stir well.
+Strain into an old-fashioned glass and garnish with the cherry.
