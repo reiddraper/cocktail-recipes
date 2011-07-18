@@ -6,7 +6,7 @@ source:
     page: 32
 ---
 
-* {{ a 2oz }} {{ i #blended-whisky }}
+* {{ a 2oz }} {{ i #blended-whiskey }}
 * {{ a 1oz }} {{ i #sweet-vermouth 'Italian sweet vermouth' }}
 * {{ a 2dashes }} {{ i #angostura-bitters }}
 * {{ a 1unit }} {{ i #marashino-cherry }}, for garnish

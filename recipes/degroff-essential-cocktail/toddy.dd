@@ -10,7 +10,7 @@ note:
 ---
 
 * {{ a 1/2oz }} {{ i #dark-rum }}
-* {{ a 1/2oz }} {{ i #rye-whisky }}
+* {{ a 1/2oz }} {{ i #rye-whiskey }}
 * {{ a 1/2oz }} {{ i #lemon-juice 'fresh-squeezed lemon juice' }}
 * {{ a 1oz }} {{ i #honey-syrup }}
 * {{ a 3oz }} {{ i #hot-tea }}
