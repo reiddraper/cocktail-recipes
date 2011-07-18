@@ -1,0 +1,15 @@
+---
+title: Mimosa
+source:
+    type: book
+    isbn: 978-0-307-40573-9
+    page: 90
+---
+
+* {{ a 2oz }} {{ i #orange-juice 'fresh-squeezed orange juice' }}
+* {{ a 4oz }} {{ i #champagne }}
+* {{ a 1/4oz }} {{ i #cointreau 'Cointreu float' }}
+* {{ a unscaled }} {{ i #orange-zest }}, for garnish
+
+Pour orange juice into a Champagne flute. Add Champagne, and top
+with Cointreu. Garnish with orange zest.
