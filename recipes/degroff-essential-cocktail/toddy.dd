@@ -1,0 +1,20 @@
+---
+title: Toddy
+source:
+    type: book
+    isbn: 978-0-307-40573-9
+    page: 50
+note:
+  recipe calls for rye or bourbon
+  recipe calls for hot tea or hot water
+---
+
+* {{ a 1/2oz }} {{ i #dark-rum }}
+* {{ a 1/2oz }} {{ i #rye-whisky }}
+* {{ a 1/2oz }} {{ i #lemon-juice 'fresh-squeezed lemon juice' }}
+* {{ a 1oz }} {{ i #honey-syrup }}
+* {{ a 3oz }} {{ i #hot-tea }}
+* {{ a unscaled }} {{ i #lemon-peel }}, for garnish
+
+Combine all ingredients but hot tea in a large goblet. Stir well.
+Add the hot tea and stir. Garnish with lemon peel.
