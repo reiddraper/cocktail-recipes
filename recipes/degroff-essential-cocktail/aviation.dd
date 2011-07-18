@@ -1,0 +1,14 @@
+---
+title: Aviation
+source:
+  type: book
+  isbn: 978-0-307-40573-9
+  page: 101
+---
+
+* {{ a 2oz }} {{ i #gin }}
+* {{ a 3/4oz }} {{ i #maraschino-liqueur 'Luxardo Maraschino liqueur' }}
+* {{ a 1/2oz }} {{ i #lemon-juice 'fresh-squeezed lemon juice' }}
+
+Combine ingredients in a mixing glass with ice. Shake well.
+Strain and serve in a cocktail glass.
