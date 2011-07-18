@@ -1,0 +1,18 @@
+---
+title: Rob Roy
+source:
+    type: book
+    isbn: 978-0-307-40573-9
+    page: 46
+note:
+  bitters amount says:
+  bitters to taste, optional
+---
+
+* {{ a 2oz }} {{ i #blended-scotch }}
+* {{ a 1oz }} {{ i #sweet-vermouth 'Italian sweet vermouth' }}
+* {{ a 1dash }} {{ i #peychauds-bitters }}
+* {{ a unscaled }} {{ i #lemon-peel }}, for garnish
+
+Combine ingredients in a mixing glass with ice. Stir well.
+Strain into a cocktail glass and garnish with orange peel.
