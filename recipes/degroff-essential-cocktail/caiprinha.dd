@@ -1,17 +1,20 @@
 ---
-title: Dry Martini
+title: Caiprinha
 source:
   type: book
   isbn: 978-0-307-40573-9
-  page: 104
+  page: 120
 note:
-  calls for gin or vodka
+  the falernum is optional
 ---
 
-* {{ a 4dashes }} {{ i #dry-vermouth 'French dry vermouth' }}
-* {{ a 2+1/2oz }} {{ i #london-dry-gin }}
-* {{ a unit }} {{ i #spanish-cocktail-olive 'Pitted Spanish cocktail olive' }}, chilled, for garnish
-* {{ a unit }} {{ i #lemon-peel }}, for garnish
+* {{ a 1/2oz }} {{ i #lime }}, quartered
+* {{ a 2+1/2tsp }} {{ i #sugar }}
+* {{ a 2oz }} {{ i #cachaca }}
+* {{ a 1/4oz }} {{ i #falernum "John D.Taylor's Velvet Falernum' }}
 
-Fill a glass with ice. Add vermouth, then gin. Stir well. Strain into
-a cocktail glass and garnish with olive and lemon peel.
+Grab a mixing glass and a rocks glass. Fill the rocks glass with cracked
+ice. Muddle the lime and sugar in the bottom of the mixing glass.
+Add the cachaça, falernum, and ice from the rocks glass into the
+mixing glass. Pour the contents of the mixing glass (including limes)
+into the rocks glass and serve.
