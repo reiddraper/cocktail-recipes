@@ -1,0 +1,17 @@
+---
+title: Papa Doble
+variationof: Daiquiri
+source:
+  type: book
+  isbn: 978-0-307-40573-9
+  page: 125
+note:
+  an OR in the lime juice amounts
+---
+
+* {{ a 3oz }} {{ i #white-rum }}
+* {{ a 1oz }} {{ i #lime-juice 'fresh-squeezed lime juice' }}
+* {{ a 1/2oz }} {{ i #marsh-grapfruit-juice }}
+* {{ a 6drops }} {{ i #maraschino-liqueur 'Luxardo Maraschino liqueur' }}
+
+In a blender, combine ingredients with ice. Blend. Serve in a coupé glass. 
