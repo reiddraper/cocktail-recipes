@@ -1,0 +1,17 @@
+---
+title: Dry Martini
+source:
+  type: book
+  isbn: 978-0-307-40573-9
+  page: 104
+note:
+  calls for gin or vodka
+---
+
+* {{ a 4dashes }} {{ i #dry-vermouth 'French dry vermouth' }}
+* {{ a 2+1/2oz }} {{ i #london-dry-gin }}
+* {{ a unit }} {{ i #spanish-cocktail-olive 'Pitted Spanish cocktail olive' }}, chilled, for garnish
+* {{ a unit }} {{ i #lemon-peel }}, for garnish
+
+Fill a glass with ice. Add vermouth, then gin. Stir well. Strain into
+a cocktail glass and garnish with olive and lemon peel.
