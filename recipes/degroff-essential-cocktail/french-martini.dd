@@ -1,0 +1,14 @@
+---
+title: French Martini
+source:
+  type: book
+  isbn: 978-0-307-40573-9
+  page: 112
+---
+
+* {{ a 1oz }} {{ i #vodka 'Premium vodka' }}
+* {{ a 1oz }} {{ i #chambord }}
+* {{ a 2oz }} {{ i #pineapple-juice 'unsweetened pineapple juice' }}
+
+Fill a glass with ice. Add vermouth, then gin. Shake well. Strain into
+a cocktail glass and serve.
