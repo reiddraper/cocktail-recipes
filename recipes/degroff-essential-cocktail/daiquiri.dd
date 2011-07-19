@@ -1,0 +1,16 @@
+---
+title: Daiquiri
+source:
+  type: book
+  isbn: 978-0-307-40573-9
+  page: 124
+---
+
+* {{ a 1+1/2oz }} {{ i #white-rum }}
+* {{ a 1oz }} {{ i #simple-syrup }}
+* {{ a 3/4oz }} {{ i #lime-juice 'fresh-squeezed lime juice' }}
+* {{ a unit }} {{ i #lime-slice 'Thin slice lime' }}, for garnish
+
+Combine ingredients in a mixing glass. Shake well.
+Strain into a cocktail glass and garnish with lime
+slice.
